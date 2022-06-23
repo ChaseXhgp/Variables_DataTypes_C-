@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------------
+VARIABLES.
+
+Variable's remember a value / data. 
+The value of the variable can *vary.* 
+
+VarThing = 5
+VarThing + 5
+VarThing is now 10.
+(Integer / Int Variable)
+
+Left side is the variable.
+Right side is the value.
+VariableName = 20
+The equals sign does NOT mean equals. Its an assignment operator.
+For equals, You'd do ==.
+
+All variables are CASE SENSETIVE. Bruh and bruh are DIFFERENT variables.
+--------------------------------------------------------------------------------------
+DATA TYPES.
+
+Bolean: Yes or No
+Integer: Whole Number
+Float: Number with decimal 
+Character: One Letter.
+String: A string or table of characters, For example "Hello"
+Array: An ordered list of items of a given data type.
+
+Reserved Words: For, else, if, etc.
+--------------------------------------------------------------------------------------
